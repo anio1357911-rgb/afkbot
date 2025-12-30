@@ -40,7 +40,7 @@
     },
 
     "chat-log": true,
-    "auto-reconnect": true,
+    "auto-reconnect": false,
     "auto-recconect-delay": 10000000000000000
   }
 }
